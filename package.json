@@ -1,0 +1,13 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "ulbi tv node js course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
